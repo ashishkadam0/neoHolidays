@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Neos</string>
+    <string name="your_country">Select Country and Year</string>
+    <string name="holidays">HOLIDAY LIST</string>
+    <string name="holidays_get">Get</string>
+
+
+    <string-array name="countries">
+        <item>India</item>
+        <item>United Kingdom</item>
+        <item>USA</item>
+    </string-array>
+
+    <string-array name="years">
+        <item>2022</item>
+        <item>2021</item>
+    </string-array>
+</resources>
